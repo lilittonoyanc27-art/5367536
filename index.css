@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Plus Jakarta Sans', 'Noto Sans Armenian', system-ui, -apple-system, sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 640px) {
+  :root {
+    font-size: 18.5px;
+  }
+}
+
+html[data-font="normal"] {
+  font-size: 17px;
+}
+
+html[data-font="large"] {
+  font-size: 19px;
+}
+
+@media (min-width: 640px) {
+  html[data-font="large"] {
+    font-size: 20px;
+  }
+}
+
+html[data-font="xlarge"] {
+  font-size: 21.5px;
+}
+
+@media (min-width: 640px) {
+  html[data-font="xlarge"] {
+    font-size: 22.5px;
+  }
+}

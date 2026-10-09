@@ -1,0 +1,6 @@
+{
+  "name": "El español coloquial — Խոսակցական իսպաներեն",
+  "description": "Ինտերակտիվ ուսումնական հավելված իսպաներեն խոսակցական արտահայտությունների համար (B1-B2)՝ սեղմեք իսպաներենի վրա հայերեն թարգմանությունը տեսնելու համար, խաղեր, ընթերցանություն և աուդիո։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
